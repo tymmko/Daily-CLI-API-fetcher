@@ -1,1 +1,23 @@
-# Daily-CLI-API-fetcher
+# Daily CLI API Fetcher 
+This app is designed to use Clockify API for getting tasks. 
+
+## Installation
+*Install requirements:*
+
+Run:  
+`pip install -r requirements.txt` (or `pip3 install -r requirements.txt` if you're a linux or mac user) 
+
+
+*Run the code:*
+
+`git clone https://github.com/tymmko/Daily-CLI-API-fetcher`
+
+`cd Daily-CLI-API-fetcher`
+
+Add your X_API_KEY in config.yml: API_KEY, HEADER
+
+`python3 main.py`
+
+## Instruction
+
+This script is designed to get all tasks from user recent project, it returns dumpted json with all tasks and information about each task.
