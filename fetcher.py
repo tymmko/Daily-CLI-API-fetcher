@@ -1,5 +1,5 @@
 '''
-Module for fetching tasks from API via clockify
+Module for fetching tasks from API via clockify.
 '''
 import requests
 import json
