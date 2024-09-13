@@ -1,3 +1,3 @@
 API_KEY: 'YjViMjlhYzMtNjA4OS00ODUyLWIxMmItZTI0NTZhZjZjYzc5'
-HEADER: {'X-Api-Key': 'YjViMjlhYzMtNjA4OS00ODUyLWIxMmItZTI0NTZhZjZjYzc5'}
 dataframe_asc_order: False
+extended_report : False

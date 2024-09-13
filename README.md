@@ -14,7 +14,7 @@ Run:
 
 `cd Daily-CLI-API-fetcher`
 
-Add your X_API_KEY in config.yml: API_KEY, HEADER
+Add your API key in config.yml: API_KEY
 
 Run:
 `python3 main.py`
